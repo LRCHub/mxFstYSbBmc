@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "ROCKSTAR（feat. ロディ・リッチ）",
+  "base_artist": "ダベイビー",
+  "createdAt": "2025-12-25T12:49:37.242461Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rockstar (feat. NAV)",
+      "artist": "Lil Keed feat. NAV",
+      "has_synced": true,
+      "path": "select/01_Rockstar_(feat._NAV)_Lil_Keed_feat._NAV.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rockstar (feat. NAV)",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/02_Rockstar_(feat._NAV)_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ROCKSTAR (feat. Roddy Ricch) - BLM REMIX",
+      "artist": "DaBaby feat. Roddy Ricch",
+      "has_synced": true,
+      "path": "select/03_ROCKSTAR_(feat._Roddy_Ricch)_-_BLM_REMIX_DaBaby_feat._Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ROCKSTAR (feat. Roddy Ricch)",
+      "artist": "DaBaby feat. Roddy Ricch",
+      "has_synced": true,
+      "path": "select/04_ROCKSTAR_(feat._Roddy_Ricch)_DaBaby_feat._Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ROCKSTAR (feat. Roddy Ricch)",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/05_ROCKSTAR_(feat._Roddy_Ricch)_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rolex Rockstar (feat. Buddy)",
+      "artist": "Guapdad 4000",
+      "has_synced": true,
+      "path": "select/06_Rolex_Rockstar_(feat._Buddy)_Guapdad_4000.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rockstar (feat. 21 Savage)",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/07_Rockstar_(feat._21_Savage)_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rockstar (Feat. 21 Savage)",
+      "artist": "Post Malone, 21 Savage",
+      "has_synced": true,
+      "path": "select/08_Rockstar_(Feat._21_Savage)_Post_Malone,_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ROCKSTAR (feat. Roddy Ricch)",
+      "artist": "DaBaby, Roddy Ricch",
+      "has_synced": true,
+      "path": "select/09_ROCKSTAR_(feat._Roddy_Ricch)_DaBaby,_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rockstar (feat. Roddy Ricch)",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/10_Rockstar_(feat._Roddy_Ricch)_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "rockstar (feat. 21 Savage)",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/11_rockstar_(feat._21_Savage)_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "rockstar (feat. 21 Savage)",
+      "artist": "Post Malone, 21 Savage",
+      "has_synced": true,
+      "path": "select/12_rockstar_(feat._21_Savage)_Post_Malone,_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "rockstar (feat. 21 Savage)",
+      "artist": "Post Malone feat. 21 Savage",
+      "has_synced": true,
+      "path": "select/13_rockstar_(feat._21_Savage)_Post_Malone_feat._21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ROCKSTAR (feat. Roddy Ricch)",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/14_ROCKSTAR_(feat._Roddy_Ricch)_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "rockstar (feat. 21 Savage)",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/15_rockstar_(feat._21_Savage)_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rockstar (feat. 21 Savage)",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/16_Rockstar_(feat._21_Savage)_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "rockstar (feat. 21 Savage)",
+      "artist": "Post Malone, 21 Savage",
+      "has_synced": true,
+      "path": "select/17_rockstar_(feat._21_Savage)_Post_Malone,_21_Savage.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rockstar (feat. Lil Skies)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/18_Rockstar_(feat._Lil_Skies)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Rockstar (feat. Aleksej)",
+      "artist": "Mimiks",
+      "has_synced": true,
+      "path": "select/19_Rockstar_(feat._Aleksej)_Mimiks.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I no rockstar (feat. Yumenokessho ROSE)",
+      "artist": "メガテラ・ゼロ feat. 夢ノ結唱 ROSE",
+      "has_synced": true,
+      "path": "select/20_I_no_rockstar_(feat._Yumenokessho_ROSE)_メガテラ・ゼロ_feat._夢ノ結唱_ROSE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROCKSTAR (feat. Roddy Ricch)",
+      "artist": "DaBaby",
+      "has_synced": false,
+      "path": "select/pl_01_ROCKSTAR_(feat._Roddy_Ricch)_DaBaby.txt"
+    }
+  ]
+}
